@@ -1,4 +1,4 @@
-"Hello, I'm Rajat Kumar, a passionate problem solver with a keen interest in tackling real-life industry challenges. Currently, I am serving as a Software Engineer/Analyst A4 at Capgemini Technology Service India Limited, while actively seeking new opportunities to leverage my skills and expertise.
+"Hello, I'm Rajat Kumar, a passionate problem solver with a keen interest in tackling real-life industry challenges. Currently, I am serving as a Software Engineer/Analyst A4 at ### Capgemini Technology Service India Limited, while actively seeking new opportunities to leverage my skills and expertise.
 
 🌱 Alongside my current role, I am dedicatedly pursuing a full-stack data analytics program with https://ineuron.ai/, renowned for its cutting-edge curriculum. This comprehensive training equips me with the latest techniques to address complex data-related problems.
 
